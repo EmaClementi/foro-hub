@@ -31,5 +31,5 @@ Los tópicos están relacionados con **usuarios** y **cursos**, de forma que:
 
 ## Cómo usarlo
 1. **Clonar el repositorio**
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/EmaClementi/foro-hub.git
    cd repositorio
