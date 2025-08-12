@@ -1,7 +1,7 @@
 # FORO HUB
 
 ## Descripción del proyecto
-Este proyecto es una aplicación Java desarrollada con **Spring Boot 3**, que permite la gestión de tópicos dentro de un sistema educativo.  
+Este proyecto es una aplicación Java desarrollada con **Spring Boot 3**, que permite la gestión de tópicos.  
 Los tópicos están relacionados con **usuarios** y **cursos**, de forma que:
 - Un usuario puede tener múltiples tópicos.
 - Un curso puede tener múltiples tópicos.
